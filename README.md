@@ -1,6 +1,6 @@
 # cookie-url
 
-[![Build](https://img.shields.io/travis/com/arshadkazmi42/cookie-url.svg)](https://travis-ci.com/arshadkazmi42/cookie-url/)
+[![Build](https://github.com/arshadkazmi42/cookie-url/actions/workflows/nodejs.yml/badge.svg)](https://github.com/arshadkazmi42/cookie-url/actions/workflows/nodejs.yml)
 
 Generate browser cookie url from cookie object. Supports [Chrome Cookie](https://developer.chrome.com/extensions/cookies#type-Cookie) & [Firefox](https://developer.mozilla.org/en-US/docs/Mozilla/Add-ons/WebExtensions/API/cookies/Cookie#Type)
 
